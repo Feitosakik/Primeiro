@@ -3,5 +3,5 @@
 Status do projeto: Em desenvolvimento
 
 ```
-npn stall...
+node app.js
 ```
